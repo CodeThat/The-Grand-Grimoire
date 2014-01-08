@@ -1,4 +1,5 @@
-# Based off a study that roughly 1/3 of all WEP keys are in fact the home phone number of routers home, we can brute most of the number if we know NPA, we can cut brute force times down.
+# Based off a study that roughly 1/3 of all WEP keys are in fact the home phone number of routers home, we can brute 
+# most of the number if we know NPA, we can cut brute force times down.
 
 #!/bin/sh 
 w=( "20:32:05:" "20:32:07:" "20:32:40:" "20:32:41:" "20:32:89:" "20:32:97:"
