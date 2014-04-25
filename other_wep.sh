@@ -1,5 +1,3 @@
-# Appears to be another version of my ealier script. I need to merge and complete this thing, one day.
-
 #!/bin/bash
 
 echo -e "\033[1;035m \n"
