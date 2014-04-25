@@ -1,7 +1,5 @@
 #!/usr/bin/perl
 
-#Don't even really remember wtf I was doing here...
-
 @tag=split(/-/,@ARGV[0]);
 @ip1=split(/\ ./,@tag[0]);
 @ip2=split(/\ ./,@tag[1]);
