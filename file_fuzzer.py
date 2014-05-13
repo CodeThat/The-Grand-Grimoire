@@ -34,8 +34,8 @@ class file_fuzzer:
         
         # Optional
         self.smtpserver = 'mail.google.com'
-        self.recipients = ['camkat33@gmail.com']
-        self.sender     = 'link@homerig.com'
+        self.recipients = ['someone@somewhere.com']
+        self.sender     = 'self@hnothere.com'
         self.test_cases = [ "%s%n%s%n%s%n", "\xff", "\x00", "A"]
         
     def file_picker(self):
