@@ -1,4 +1,4 @@
 Information Security
 ==============
 
-A place for some of my infosec related recipes I've created in my reseasrch. Here a brave adventurer will my find security related programs, scripts, exploits, and notes. 
+A place for some of my infosec related recipes created throughout my reseasrch. Here a brave adventurer will my find security related programs, scripts, exploits, and notes. 
